@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/footballfans/static/css/main.ceb1ac77.css",
+    "main.js": "/footballfans/static/js/main.f2f6f54d.js",
+    "static/js/787.deb9c7fe.chunk.js": "/footballfans/static/js/787.deb9c7fe.chunk.js",
+    "static/media/Candy Shop Black.woff": "/footballfans/static/media/Candy Shop Black.d19852a3944dbaa0c85c.woff",
+    "index.html": "/footballfans/index.html",
+    "main.ceb1ac77.css.map": "/footballfans/static/css/main.ceb1ac77.css.map",
+    "main.f2f6f54d.js.map": "/footballfans/static/js/main.f2f6f54d.js.map",
+    "787.deb9c7fe.chunk.js.map": "/footballfans/static/js/787.deb9c7fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb1ac77.css",
+    "static/js/main.f2f6f54d.js"
+  ]
+}
